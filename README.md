@@ -72,5 +72,6 @@ blockheight | Cash Account name | txid as binary data
 name | data
 --- | --- 
 `text` | `text`
+
 current fields in the status table are `BlockHeight` and `Version`
 
